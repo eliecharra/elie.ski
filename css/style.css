@@ -23,7 +23,7 @@
     background-repeat: none;
     opacity: 0;
     z-index: 0;
-    animation: imageAnimation 30s linear infinite 0s;
+    animation: imageAnimation 40s linear infinite 0s;
 }
 .cb-slideshow li:nth-child(1) span { 
 	background-image: url(../images/4.jpg) 
@@ -35,6 +35,10 @@
 .cb-slideshow li:nth-child(3) span {
     background-image: url(../images/2.jpg);
     animation-delay: 20s;
+}
+.cb-slideshow li:nth-child(4) span {
+    background-image: url(../images/5.jpg);
+    animation-delay: 30s;
 }
 @keyframes imageAnimation { 
 	0% {
