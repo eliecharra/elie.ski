@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/eliec
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.elie.ski
+  * I am eliec (https://keybase.io/eliec) on keybase.
+  * I have a public key with fingerprint FBC7 4D0A 7DF1 31E7 3D39  3859 399A F690 92C7 27B6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010113e200bf2a10d001dc48d0912d82fbe0ad8cff84ed08bc4351df02effc6336920a",
+            "fingerprint": "fbc74d0a7df131e73d393859399af69092c727b6",
+            "host": "keybase.io",
+            "key_id": "399af69092c727b6",
+            "kid": "010113e200bf2a10d001dc48d0912d82fbe0ad8cff84ed08bc4351df02effc6336920a",
+            "uid": "deab6c915b44ad1cace278db72e14a19",
+            "username": "eliec"
+        },
+        "service": {
+            "hostname": "www.elie.ski",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1481590144,
+    "expire_in": 157680000,
+    "prev": "97969cf0872c857f625efebbf64ef10d1d118e68f82100d8bca06f0176d883a4",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUm1QFVUYvlwD4yIEOBE4OcCOA6V455zdvftxxdDSHDV0DAxC5Lq75+xlge7X
+Xr4iFFND/LrSIB85w0hCA+IYDjMXpYggRtIGFEgNJmOyKYzGrAmrsYB2GfvXz86f
+M+d9n+c5z/vMezJ0kcEYwL/3+8l3BxP9AV/8KBoyt2+sLCNEJyolrGVEPl64cAHC
+qteWryDCSgAIIKQwCYAokwIECACIJJpDgIck4khZxEBAnCTLHI0R4ESJpiwQyYDE
+siwxFMXwJBCIJEJWHHbscXkUh1eTlUWJpREQWCRDCmKWQhRPcRae4nlBZnjAkxJL
+siKjEXOdqs7QzImCis2KU6tpD9uCvf/A/8++CxfkEBZERuKhRaRpAUFJkDDJckhk
+SQxpAfI6UMUeh/AG1tC4QMESUZ5EaKUiRcJ6qvoYj9vFxcVmHWJW8xWN6PI4vU7J
+WaB1cr1el2rVmd5S1wIUi7bHIjZRcSAtRI1RhD2q4nQQVqghJa+iq0KagxYeQJpO
+InCJS/Fgm6IjLCzDAe3o/+AiTZJneYaXZMCxO0mJs7AyQ1qwjEVRZmgsa0lBBCGH
+GU7mSAgA0qIRACMDyDKI4yiBJvS53A4nYbVoPgW7pqkqdofgLfRgotxUZXz2CUOA
+0RAUaNTXy2AKDv93525XPzWfsyHuW2905mS7OSS7MfJiTmv+2nJ/wh/7PwC/7c+s
+todviRrMS0vBUYb69/N3zp64FxSUEWPLXCKffX3gG9D+QvyD9daG2qDatJVZ6fIp
+37VUKxXMvbwphQsB3W3nQhpHDjnvbjXum9hb13lpTd2yztB+EDPtwC0X6tmfV/ee
+r+i7G+XpabqaF3X63LE3Ix7474dNh+MVo6m5QxXm8eEj2ZXBV9b5rmZM+ura7jUZ
+yqO9tV03Low9nTLy0cHTKQlx10aLjp74yzqyYjgAbZiuSV291RYaqx6J/D55oq55
+3K9MLu/p2LHq8+pDl577unlJfUV6VPxn7K5915MiydjK+Uz16IHJT86Yujo6bgyc
+5RIXT02cGao4nuZWm4ZfunywZvxA4UOXqTX3/FJfbFy9dW66ux18WTAS8dph052H
+5TY0s37m/q8lNXs6dz1izELM5t3pzdktm8J88WmwI5Cf7Z/amLvdnfz8iwHuqnU9
+rcHZ6PrggM3QOHhzbv6Oc7Yhr6inaqjimcKVkqvU3lLpq9lzyhi49JXeQaL7Jjd1
+u91/y91XEt0WVOuW+vcGXnm1SywI+aXuU/UiZ/dFJD85847nq96s9B1vbfEYx9Z0
+Pwobm1/UB7uXfZecMOP+cJSas6/dXXlsICd+zPTxfMPm5RElt7IyVv3Z8vfY8E/H
+y5isxLe3EZd/+Ac=
+=S1ba
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eliec
+
+==================================================================
+
